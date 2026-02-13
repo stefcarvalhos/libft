@@ -2,7 +2,7 @@
 
 **Libft** is a custom library developed in C as part of the 42 School curriculum. This project consists of recreating essential functions from the C standard library, as well as implementing new utility functions for string manipulation, memory handling, and linked lists. The goal is to consolidate knowledge in C, reinforce good programming practices, and create a reusable static library for future projects.
 
-## 📋 Funcionalidades
+## 📋 Features
 
 Libft includes the recreation of several standard functions from <ctype.h>, <string.h>, <stdlib.h>, and <stdio.h>, along with additional utility functions. Some of the key implementations include:
 
